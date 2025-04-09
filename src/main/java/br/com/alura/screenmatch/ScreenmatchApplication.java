@@ -13,6 +13,8 @@ public class ScreenmatchApplication implements CommandLineRunner {
 	public static void main(String[] args) {
 		SpringApplication.run(ScreenmatchApplication.class, args);
 		//System.out.println("Olá, mundo!");
+		// comments now right
+		System.out.println("finalizado");
 	}
 
 
